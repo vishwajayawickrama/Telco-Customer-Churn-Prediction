@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./5_Production_Ready_Pipeline/src",
+        "./5_Production_Ready_Pipeline/utils"
+    ]
+}
